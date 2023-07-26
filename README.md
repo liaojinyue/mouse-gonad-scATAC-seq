@@ -1,2 +1,2 @@
 # mouse-gonad-scATAC-seq
-The single-cell chromatin landscape in gonadal cell lineage specification and sex fate determination
+Scripts associated with manuscirpt "The single-cell chromatin landscape in gonadal cell lineage specification and sex fate determination".
